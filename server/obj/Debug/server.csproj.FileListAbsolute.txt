@@ -7,3 +7,6 @@ C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\server\server\obj\Debu
 C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
 C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\server\server\obj\Debug\server.exe
 C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\T.B.Laptop\Desktop\lala\server\bin\Debug\server.exe.config
+C:\Users\T.B.Laptop\Desktop\lala\server\obj\Debug\server.exe
+C:\Users\T.B.Laptop\Desktop\lala\server\obj\Debug\server.pdb
